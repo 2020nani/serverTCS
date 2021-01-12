@@ -27,6 +27,7 @@ Apos clonar o projeto em seu computador e necessario instalar as dependencias qu
 
 
 - `npm install` ou `yarn` caso tenha yarn instalado em sua maquina
+- crie um arquivo .env conforme o arquivo.env.example
 
 Crie um container docker para rodar uma imagem mongodb para o banco de dados com o comando
 
