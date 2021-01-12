@@ -1,9 +1,9 @@
 /*
     Dados do server
-   * Nome : CotaboxTesteServer
+   * Nome : TCSSERVER
    * Objetivo: Fornecer e receber dados para o frontend
    * Desenvolvedor: Hernani Almeida
-   * data criacao: 22/12/2020 - 27/12/2020
+   * data criacao: 12/01/2020 
    
 */
 

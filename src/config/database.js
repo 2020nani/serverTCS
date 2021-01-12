@@ -9,8 +9,8 @@
 
 /*exporta variaveis de test e desenvolvimento para acesso ao database*/
 require('../bootstrap');
-
+console.log(process.env.NODE_ENV)
 module.exports = {
-  URL: process.env.MONGO_URL ,
-  
+  URL: process.env.MONGO_URL
+    
 };
